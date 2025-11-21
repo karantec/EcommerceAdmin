@@ -29,7 +29,7 @@ import {
 } from "@mui/material";
 import { MdEdit, MdDelete } from "react-icons/md";
 
-const API_URL = "http://localhost:8000/api/product";
+const API_URL = "https://ecommercebackend-zniy.onrender.com/api/product";
 const CATEGORY_API = "https://ecommercebackend-zniy.onrender.com/api/category/getcategories";
 
 const CLOUDINARY_UPLOAD_PRESET = "marketdata";
