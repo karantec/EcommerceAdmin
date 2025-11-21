@@ -29,7 +29,7 @@ import {
 } from "@mui/material";
 import CSVUploader from "./CategoryCsv";
 
-const API_URL = "https://backend.minutos.shop/api/category";
+const API_URL = "https://ecommercebackend-zniy.onrender.com/api/category";
 
 // Cloudinary configuration
 const CLOUDINARY_UPLOAD_PRESET = "marketdata";

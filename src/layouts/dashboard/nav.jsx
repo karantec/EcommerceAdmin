@@ -80,7 +80,7 @@ export default function Nav({ openNav, onCloseNav }) {
         />
 
         <Box sx={{ textAlign: 'center' }}>
-          <Typography variant="h6">Minutos - 10 minute Delievery Solution</Typography>
+          <Typography variant="h6">Ecommerce -minute Delievery Solution</Typography>
 
           
         </Box>
