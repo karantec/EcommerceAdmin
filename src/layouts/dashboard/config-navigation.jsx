@@ -28,21 +28,21 @@ const navConfig = [
     path: '/category',
     icon: icon('ic_user'),
   },
-  {
-    title: 'SubCategory Of products',
-    path: '/subcategory',
-    icon: icon('ic_user'),
-  },
+  // {
+  //   title: 'SubCategory Of products',
+  //   path: '/subcategory',
+  //   icon: icon('ic_user'),
+  // },
   {
     title: 'product',
     path: '/products',
     icon: icon('ic_cart'),
   },
-  {
-    title: 'Vendor List',
-    path: '/VendorList',
-    icon: icon('ic_cart'),
-  },
+  // {
+  //   title: 'Vendor List',
+  //   path: '/VendorList',
+  //   icon: icon('ic_cart'),
+  // },
   {
     title: 'Order',
     path: '/order',
